@@ -4,12 +4,16 @@
 - [x] building
 - [x] canoe - correspondence
 - [x] dagon - deity
-- [x] dialogue.black_mirror （黑镜）
-- [x] dialogue.blood_cultist （莫尔博士）
-- [x] dialogue.drowned （应该是洗礼的时候大衮与玩家的对话）
-- [ ] dialogue.shoreman （各种岸民）到 shoreman_cultist 为止。
+- [x] dialogue.black_mirror 黑镜
+- [x] dialogue.blood_cultist 莫尔博士
+- [x] dialogue.drowned 应该是洗礼的时候大衮与玩家的对话
+- [x] dialogue.shoreman 各种岸民
+  - [ ] 岸民打招呼用的是“Greeting.”“Farewell.”，翻译成“你好”“再见”体现不出差异；但是翻译成 “向你问好”“告辞”又显得太奇怪了。
+  - [x] dialogue.shoreman_cultist 是杀了看守的那个红衣服村民，这部分流程乱选似乎会死档
+- [x] dialogue.shoreman_drunk 酒鬼，翻译杀手
+  - [x] Less what-cious? 应该怎么翻译？ You are less loquacious than last time.
 - [ ] dialogue.shoreman_lighthouse_keeper （看守）
-- [ ] dialogue.shoreman_scholar
+- [ ] dialogue.shoreman_scholar 岸民学者，1.20.1 新增的重要角色。
 - [ ] doskill
 - [ ] dreams
 - [ ] dweller
@@ -17,15 +21,17 @@
 - [ ] exchange
 - [ ] fletum - fluid_type
 - [ ] gui
-- [ ] hit - ictya
-- [ ] interact
+  - [ ] gui.tablet 应该是没有变化的，但是不知道是不是进度不够我没法测试，怪
+- [x] hit - ictya 渊鱼记录应该是完全一致的
+- [x] interact
+  - [ ] interact.surgeon.bad_be_location_bed 这四个提示都异常拗口，需要结合游戏内机制翻译。
 - [x] item
 - [x] memory - message
-- [ ] mirror
+- [x] mirror 黑镜的对话与 1.12.2 应该是完全一致的
 - [x] multiblock - power
 - [x] reminiscence
 - [x] research（不含 research.thesis）
-- [ ] research.thesis （《Sanguis: Inter Vitam et Mortem》，该死的论文）
+- [ ] research.thesis 《Sanguis: Inter Vitam et Mortem》，该死的论文
 - [x] roar - worship
 - [ ] 记得补充字体 Source Han Serif
 
@@ -43,6 +49,8 @@
 
 - the keeper/灯塔看守：旧渔村灯塔上固定刷新的 岸民 NPC，指定迫害对象
 - surgeon/外科医兽
+- cradle/沉梦水篮
+
 - Georg Ferdinand Mauer/格奥尔格·费迪南德·莫尔
 - Saint Adelina/圣者阿德琳娜
 - Saint Jerome/圣者杰罗姆
