@@ -8,6 +8,8 @@ while True:
         break
     except:
         print("正则表达式无效 请重试")
+#此处引用了M.py的代码
+
 old_version = {}
 with open("en_us.lang", "r", encoding="utf-8") as f:
     for line in f:
@@ -18,6 +20,7 @@ with open("en_us.lang", "r", encoding="utf-8") as f:
         if "=" in line:
             key, value = line.split("=", 1)
             old_version[key.strip()] = value.strip()
+
 #保存1.20.1版本文本
 with open (r'en_us.json','r')as f:
     latest_version=json.load(f)
