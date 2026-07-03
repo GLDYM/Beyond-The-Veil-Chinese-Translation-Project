@@ -27,7 +27,7 @@
   - [ ] interact.surgeon.bad_be_location_bed 这四个提示都异常拗口，需要结合游戏内机制翻译。
 - [x] item
 - [x] memory - message
-- [x] mirror 黑镜的对话与 1.12.2 应该是完全一致的
+- [x] mirror 黑镜的对话
 - [x] multiblock - power
 - [x] reminiscence
 - [x] research（不含 research.thesis）
