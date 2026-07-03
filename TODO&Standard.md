@@ -46,7 +46,8 @@
 - black shores/黑海之岸：旧渔村所在的群系
 - Father Ocean/海洋之父：大衮的另一个叫法
 - Great Dreamer/伟大长梦者：克苏鲁，源自“诸梦经行吾身”
-
+- Communion/共鸣        游戏中与神像共鸣的情节
+- Memory of xx/xx之忆   游戏中入梦所需的记忆之瓶
 - the keeper/灯塔看守：旧渔村灯塔上固定刷新的 岸民 NPC，指定迫害对象
 - surgeon/外科医兽
 - cradle/沉梦水篮
