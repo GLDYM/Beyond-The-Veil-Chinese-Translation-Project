@@ -14,20 +14,20 @@
   - [x] Less what-cious? 应该怎么翻译？ You are less loquacious than last time.
 - [ ] dialogue.shoreman_lighthouse_keeper （看守）
 - [ ] dialogue.shoreman_scholar 岸民学者，1.20.1 新增的重要角色。
-- [ ] doskill
-- [ ] dreams
+- [x] doskill
+- [x] dreams
 - [ ] dweller
-- [ ] effect - entity
+- [x] effect - entity
 - [ ] exchange
-- [ ] fletum - fluid_type
+- [x] fletum - fluid_type
 - [ ] gui
-  - [ ] gui.tablet 应该是没有变化的，但是不知道是不是进度不够我没法测试，怪
+  - [x] gui.tablet 应该是没有变化的，但是不知道是不是进度不够我没法测试，怪
 - [x] hit - ictya 渊鱼记录应该是完全一致的
 - [x] interact
   - [ ] interact.surgeon.bad_be_location_bed 这四个提示都异常拗口，需要结合游戏内机制翻译。
 - [x] item
 - [x] memory - message
-- [x] mirror 黑镜的对话
+- [x] mirror 黑镜的对话与 1.12.2 应该是完全一致的
 - [x] multiblock - power
 - [x] reminiscence
 - [x] research（不含 research.thesis）
