@@ -18,9 +18,11 @@
 - [x] dreams
 - [ ] dweller
 - [x] effect - entity
-- [ ] exchange
+- [x] exchange
 - [x] fletum - fluid_type
 - [ ] gui
+- [x] gui.dagon.x 这段文言翻译实属难办，我发现先前的翻译zh.cn.lang中，译者将ye译为了“汝”，可“汝”应该是平辈对彼此的称呼，
+      而“尔”表上对下的称呼，更能体现dagon海洋之父的地位。但在此还是将其译为“汝”，看看后续是否还需作调整
   - [x] gui.tablet 应该是没有变化的，但是不知道是不是进度不够我没法测试，怪
 - [x] hit - ictya 渊鱼记录应该是完全一致的
 - [x] interact
