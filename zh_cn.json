@@ -11,7 +11,7 @@
     "arsenal.knock_upwards": "向上击飞",
     "bauble.cooldown": "饰品技能还需要 %1$s 秒的冷却时间。",
     "beginning.netherreturn": "一本崭新的书躺在我的手中，准备着写入新的篇章。我将称之为死灵之书（Al Azif）。",
-    "block.beyondtheveil.alembics.crafting": "通过将固体与液体混合搭配，此装置得以创造出一些全新之物...然而若想将其比拟为古老的太初之水，则实属是愚妄之举——它无法孕育生命\\1最左侧的第一个蒸馏器与第三个蒸馏器可以储存制作过程中需使用的输入液。第二个小蒸馏器则可以放入物品。\\1必须放置一个液体瓶来接收输出液。如果输入液，物品与第二种液体组成一个有效的配方时，液体瓶便会渐渐被注满。\\1某个特定的物品可能就足以产出一定量的输出液。 #GIVE EXAMPLE",
+    "block.beyondtheveil.alembics.crafting": "通过将固体与液体混合搭配，此装置得以创造出一些全新之物...然而若想将其比拟为古老的太初之水，则实属是愚妄之举——它无法孕育生命\\1最左侧的第一个蒸馏器与第三个蒸馏器可以储存制作过程中需使用的输入液。第二个小蒸馏器则可以放入物品。\\1必须放置一个液体瓶来接收输出液。如果输入液，物品与第二种液体构成一个有效的配方，液体瓶便会被缓慢注满。\\1某个特定的物品可能就足以产出一定量的输出液。 #GIVE EXAMPLE",
     "block.beyondtheveil.blue_bricks": "暗蓝砖",
     "block.beyondtheveil.damp_canopy": "潮木顶瓦",
     "block.beyondtheveil.damp_filled_canopy": "潮木顶瓦（实木）",
